@@ -18,6 +18,7 @@ public class PruebaEquipo {
         System.out.println("Hola soy Edwin Santos");
         
         System.out.println("Hola mundo BS");
+        System.out.println("Hola mundo ES");
         
     }
     
