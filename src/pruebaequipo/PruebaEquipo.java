@@ -15,7 +15,7 @@ public class PruebaEquipo {
     public static void main(String[] args) {
         
         System.out.println("Hola soy Bryan Sigala");
-        
+        System.out.println("Hola soy Edwin Santos");
         
     }
     
