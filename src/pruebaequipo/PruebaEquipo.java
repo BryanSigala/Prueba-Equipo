@@ -20,6 +20,8 @@ public class PruebaEquipo {
         System.out.println("Hola mundo BS");
         System.out.println("Hola mundo ES");
         
+        System.out.println("Fin de todo");
+        
     }
     
 }
